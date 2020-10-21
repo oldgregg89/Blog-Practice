@@ -1,0 +1,14 @@
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.csprojAssemblyReference.cache
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.csproj.CoreCompileInputs.cache
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.RazorAssemblyInfo.cache
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.RazorAssemblyInfo.cs
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.AssemblyInfoInputs.cache
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.AssemblyInfo.cs
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/bin/Debug/netcoreapp2.2/BlogPost.deps.json
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/bin/Debug/netcoreapp2.2/BlogPost.runtimeconfig.json
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/bin/Debug/netcoreapp2.2/BlogPost.runtimeconfig.dev.json
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/bin/Debug/netcoreapp2.2/BlogPost.dll
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/bin/Debug/netcoreapp2.2/BlogPost.pdb
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.RazorTargetAssemblyInfo.cache
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.dll
+/Users/iangregg/Desktop/BlogPost.solution/BlogPost/obj/Debug/netcoreapp2.2/BlogPost.pdb
